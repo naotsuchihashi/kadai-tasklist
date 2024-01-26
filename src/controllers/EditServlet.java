@@ -13,7 +13,6 @@ import javax.servlet.http.HttpServletResponse;
 import models.Tasks;
 import utils.DBUtil;
 
-
 @WebServlet("/edit")
 public class EditServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
